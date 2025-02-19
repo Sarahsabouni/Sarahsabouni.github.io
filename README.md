@@ -1,4 +1,3 @@
-# Sarahsabouni.github.io
 Professional Summary
 
 Hello! I’m Sarah Sabouni, a seasoned BI Developer and Data Analyst based in Ontario, Canada. With a strong track record of improving data processing efficiency by 20% and enabling data-driven decision-making, I excel in integrating Power BI with various platforms and developing predictive models. My passion is turning complex data into actionable insights, and I enjoy collaborating with cross-functional teams to deliver innovative solutions. Welcome to my public portfolio, where I showcase my skills, projects, and the journey that has shaped my career in data.

@@ -1,7 +1,3 @@
-### Professional Summary
-
-Hello! I’m Sarah Sabouni, a seasoned BI Developer and Data Analyst based in Ontario, Canada. With a strong track 
-
 # Sarah Sabouni's Portfolio
 
 Hello! I'm Sarah Sabouni, a seasoned BI Developer and Data Analyst based in Ontario, Canada. With a strong passion for data science and software engineering. Welcome to my public portfolio, where I showcase my skills and share my journey in the realm of data.

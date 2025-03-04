@@ -30,6 +30,13 @@ This repository contains a comprehensive analysis of wire transactions across th
 * Top Transactions: Highlight the largest transactions by amount and identify the top sender and receiver countries.
 * Interactive Filters: Use slicers and drill-down capabilities to explore data by country, message type, direction, and time period.
 * AI-Powered Insights: Leverage Key Influencers and Decomposition Tree visuals to identify key factors driving transaction amounts.
+* Anomaly Detection: Identify and visualize unexpected changes or outliers in transaction data.
+* Forecasting: Predict future transaction volumes and amounts based on historical data.
+* Q&A Visual: Use natural language queries to interact with the data and gain instant insights.
+* Performance Optimization: Utilize dataflows and incremental refresh to handle large datasets efficiently and improve performance.
+* Currency Conversion: Convert transaction amounts to CAD using monthly exchange rates from the Canadian bank for consistent reporting.
+* Bookmarks: Navigate seamlessly between different report pages using bookmarks.
+* Tooltips: Provide additional details and insights when users hover over visual elements.
 * Performance Optimization: Utilize dataflows and incremental refresh to handle large datasets efficiently and improve performance.
 * Currency Conversion: Convert transaction amounts to CAD using monthly exchange rates from the Canadian bank for consistent reporting.
 

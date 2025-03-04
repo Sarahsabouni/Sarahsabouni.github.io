@@ -22,17 +22,16 @@ Explore my portfolio to find my CV and a collection of personal projects that im
 
 This repository contains a comprehensive analysis of wire transactions across the US, Canada, and Mexico, conducted using Power BI. The project aims to uncover insights into transaction patterns, trends, and key factors influencing transaction amounts over the last two years. It includes inbound and outbound transactions, sender and receiver countries, transaction amounts, and message types.
 
-**Features**:
-- **Monthly and Yearly Trends**: Analyze transaction volumes and amounts over time to identify patterns and trends.
-- **Country-wise Analysis**: Break down transactions by sender and receiver countries for detailed comparisons.
-- **Message Type Analysis**: Identify the most common message types and their impact on transaction amounts.
-- **Directional Analysis**: Compare inbound vs. outbound transactions for each country to understand the flow of funds.
-- **Top Transactions**: Highlight the largest transactions by amount and identify the top sender and receiver countries.
-- **Geospatial Insights**: Visualize transaction flows and geographical distribution of transactions using maps.
-- **Interactive Filters**: Use slicers and drill-down capabilities to explore data by country, message type, direction, and time period.
-- **AI-Powered Insights**: Leverage Key Influencers and Decomposition Tree visuals to identify key factors driving transaction amounts.
-- **Performance Optimization**: Utilize dataflows and incremental refresh to handle large datasets efficiently and improve performance.
-- **Currency Conversion**: Convert transaction amounts to CAD using monthly exchange rates from the Canadian bank for consistent reporting.
+## Features
+* Monthly and Yearly Trends: Analyze transaction volumes and amounts over time to identify patterns and trends.
+* Country-wise Analysis: Break down transactions by sender and receiver countries for detailed comparisons.
+* Message Type Analysis: Identify the most common message types and their impact on transaction amounts.
+* Directional Analysis: Compare inbound vs. outbound transactions for each country to understand the flow of funds.
+* Top Transactions: Highlight the largest transactions by amount and identify the top sender and receiver countries.
+* Interactive Filters: Use slicers and drill-down capabilities to explore data by country, message type, direction, and time period.
+* AI-Powered Insights: Leverage Key Influencers and Decomposition Tree visuals to identify key factors driving transaction amounts.
+* Performance Optimization: Utilize dataflows and incremental refresh to handle large datasets efficiently and improve performance.
+* Currency Conversion: Convert transaction amounts to CAD using monthly exchange rates from the Canadian bank for consistent reporting.
 
 
 Looking forward to connecting and exploring how I can bring your data to life!

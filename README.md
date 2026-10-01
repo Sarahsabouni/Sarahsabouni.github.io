@@ -1,44 +1,36 @@
-# Sarah Sabouni's Portfolio
+# Hi, I’m Sarah Sabouni
 
-Hello! I’m Sarah Sabouni, a seasoned BI Developer and Data Analyst based in Ontario, Canada. With over a decade of experience in data science and software engineering, I am passionate about transforming data into actionable insights. Welcome to my public portfolio, where I showcase my skills and share my journey in the realm of data.
+Software Engineer at **Scotiabank, Canada**, with 5+ years of experience building and supporting business technology solutions in financial services and enterprise environments.
 
-## Contact Information
+My work combines software engineering, reporting platforms, cloud and data-system integration, APIs, workflow automation, and reliable operational delivery. I am building a public portfolio of n8n automation and AI workflow projects using synthetic data and safe test integrations.
 
-Feel free to reach out to me at: sarahsabouni0@gmail.com
+## Professional Focus
 
-## Key Skills and Experience
+- Software Engineering and Business Systems
+- Workflow Automation with n8n
+- REST APIs, Webhooks, JSON, and System Integration
+- Power BI Reporting and Business Intelligence
+- Cloud and Data Platforms: GCP, IBM Db2, MongoDB
+- ETL, Data Modeling, Performance Tuning, and Data Quality
+- AI-Assisted Business Workflows with Human Approval
+- Testing, Error Handling, Documentation, and Agile Delivery
 
-* **Data-Driven Approach**: Leveraging data to drive impactful results and informed decision-making.
+## Featured Automation Projects
 
-* **Cross-Functional Collaboration**: Successfully collaborated with diverse teams to develop and deploy software solutions, conduct data analysis, and create data-driven models.
+| Project | Business use case | What it demonstrates | Status |
+|---|---|---|---|
+| [Secure Lead Intake](https://github.com/Sarahsabouni/n8n-secure-lead-intake ) | Receive and validate new business leads safely | Webhooks, validation, API-ready data, structured workflow design, and safe responses | In progress |
+| Bilingual Appointment Assistant | Route Arabic and English service requests | Controlled AI tools, CRM/calendar lookup, and human escalation | Planned |
+| Resilient CRM-to-ERP Sync | Synchronize synthetic order records across systems | Pagination, batching, retries, monitoring, and replay | Planned |
+| AI Document Review | Extract and review fields from synthetic documents | Structured AI output, validation, and human approval gates | Planned |
 
-* **Technical Proficiency**: Proficient in Python and other data analysis tools, developing robust simulations, conducting statistical analysis, and building predictive models.
+## Technology
 
-## Portfolio Highlights
+`n8n` · `REST APIs` · `Webhooks` · `JSON` · `Power BI` · `DAX` · `Power Query` · `SQL` · `Python` · `GCP` · `IBM Db2` · `MongoDB` · `Git` · `Jira` · `Confluence`
 
-Explore my portfolio to find my CV and a collection of personal projects that implement state-of-the-art Data Science techniques. I am continually excited to bring my technical and analytical skills to a data science role where I can learn, grow, and make a meaningful impact.
+## Contact
 
-## [Project 1: Wire-Transaction-Analysis](https://github.com/Sarahsabouni/Cross-Border-Transactions-Insights-)
+- LinkedIn: https://www.linkedin.com/in/sarahsabouni
+- Location: Ontario, Canada
 
-This repository contains a comprehensive analysis of wire transactions across the US, Canada, and Mexico, conducted using Power BI. The project aims to uncover insights into transaction patterns, trends, and key factors influencing transaction amounts over the last two years. It includes inbound and outbound transactions, sender and receiver countries, transaction amounts, and message types.
-
-## Features
-* Monthly and Yearly Trends: Analyze transaction volumes and amounts over time to identify patterns and trends.
-* Country-wise Analysis: Break down transactions by sender and receiver countries for detailed comparisons.
-* Message Type Analysis: Identify the most common message types and their impact on transaction amounts.
-* Directional Analysis: Compare inbound vs. outbound transactions for each country to understand the flow of funds.
-* Top Transactions: Highlight the largest transactions by amount and identify the top sender and receiver countries.
-* Interactive Filters: Use slicers and drill-down capabilities to explore data by country, message type, direction, and time period.
-* AI-Powered Insights: Leverage Key Influencers and Decomposition Tree visuals to identify key factors driving transaction amounts.
-* Anomaly Detection: Identify and visualize unexpected changes or outliers in transaction data.
-* Forecasting: Predict future transaction volumes and amounts based on historical data.
-* Q&A Visual: Use natural language queries to interact with the data and gain instant insights.
-* Performance Optimization: Utilize dataflows and incremental refresh to handle large datasets efficiently and improve performance.
-* Currency Conversion: Convert transaction amounts to CAD using monthly exchange rates from the Canadian bank for consistent reporting.
-* Bookmarks: Navigate seamlessly between different report pages using bookmarks.
-* Tooltips: Provide additional details and insights when users hover over visual elements.
-* Performance Optimization: Utilize dataflows and incremental refresh to handle large datasets efficiently and improve performance.
-* Currency Conversion: Convert transaction amounts to CAD using monthly exchange rates from the Canadian bank for consistent reporting.
-
-
-Looking forward to connecting and exploring how I can bring your data to life!
+> Public portfolio projects use synthetic or redacted data only. I do not publish confidential employer information, client data, internal systems, credentials, API keys, OAuth tokens, or private webhook URLs.
